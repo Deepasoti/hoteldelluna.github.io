@@ -1,0 +1,161 @@
+
+
+.container-fluid{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.brand{
+  padding-right:65%;
+}
+.titleimg{
+  width: 3% 15% 7%;
+
+}
+.banner-text{
+  position: relative;
+  bottom: 550px;
+color: #F3F0D7;
+  margin: auto;
+text-align: center;
+
+
+}
+
+
+#heading2{
+  font-weight: normal;
+  font-size: 120%;
+
+}
+
+/* navbar  */
+#navbar{
+  background-color:white;
+  color: black;
+  display: inline-block;s
+}
+
+#nav-link:hover{
+  color: #C89595;
+}
+
+
+#brand{
+  font-family: 'Sacramento', cursive;
+font-size: 30px;
+color: #C89595;
+padding: 0 700px 0 0 ;
+margin-top: s0;
+}
+#nav-link{
+  color: black;
+  margin-right:8px;
+}
+
+/* button */
+.button-icon{
+  position: relative;
+  top: 250px;
+}
+
+
+
+
+/* details section */
+ #details{
+  padding: 5% 0 7%;
+ }
+
+ /* img */
+.poolview{
+  width: 100%;
+}
+
+.roomheading{
+font-size: 150%;
+text-align: center;
+margin-bottom: 100px;
+
+}
+.bigheading{
+font-size: 140%;
+
+}
+/* service section */
+
+#service{
+  padding: 8% 10% 7%;
+}
+#table{
+  width:50%;
+  position: relative;
+  left: 80px;
+}
+.serviceparagraph{
+  line-height: 1;
+  color: #9A9483;
+  padding-top: 2%;
+}
+
+
+/* carousel section */
+.carousel-item{
+  width: 70%;
+}
+
+#pictures{
+  padding: 10% 0 9%
+}
+.carousel-text{
+  text-align: center;
+  font-size: 50%;
+  padding-bottom: 5%;
+}
+
+
+
+/* extra services */
+
+#extraservices{
+  padding: 7% 5% 7%;
+}
+/* icon */
+
+.icon{
+  text-align: center;
+  color:  #C89595;
+  padding: 9% 7% 9%;
+}
+
+.icon:hover{
+  color: #F3F0D7;
+}
+.card-text{
+  padding:2% 5% 11%;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.serviceheading{
+  text-align: center;
+  padding-bottom: 7%;
+}
+.serviceparagraph{
+  text-align: center;
+  margin-bottom: 0.8%;
+  font-size: 60%;
+}
+
+
+
+
+/* footer section  */
+.footer{
+  background-color: #F3F0D7;
+  padding: 8% 15% 2%;
+  text-align: center;
+}
+.footer-icon{
+  padding: 3% 1% 2%;
+}
